@@ -1,7 +1,5 @@
 # PROGRAMMING-FOR-DATA-ANALYTICS-BIG-PROJECT
-PROGRAMMING FOR DATA ANALYTICS BIG PROJECT
-
-# Weather Trends in Ireland and Their Impact on Home and Motor Insurance Premiums
+# Weather Trends in Ireland and Their Impact on Home Insurance Premiums
 # Author: Michal Gondek
 
 ## I work in Aviva Insurance Ireland and wanted to make my main project relevant to my work
