@@ -45,7 +45,7 @@ To run the code:
 ## Conclusion
 This project examined monthly rainfall patterns across five weather stations in Ireland and its potential impact on home insurance premiums.
 Extreme weather conditions and storms have been a leading cause of increased premiums coming from the insurance sector where I currently work.
-In aviva during storm Eowynn we reported more claim payouts in 1 week compared to 3 months.
+During storm Eowyn my company Aviva reported higher volume of insurance claim payouts within a single week than typically observed over a three month period.
 My analysis demonstrated a measurable increase in both average rainfall and frequency of extreme rainfall months between 2024-2025.
 The results show that four out of five stations recorded higher mean monthly rainfall indicating a nationwide trend rather than isolated local events.
 This rise in extreme weather aligns with the observed 7.5% increase in home insurance premiums.
